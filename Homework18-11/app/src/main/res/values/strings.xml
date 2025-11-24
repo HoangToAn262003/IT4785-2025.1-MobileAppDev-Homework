@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Homework18/11/25</string>
+
+    <string name="strMSSV">Mã số sinh viên</string>
+    <string name="strName">Họ tên</string>
+    <string name="strBtnAdd">Add</string>
+    <string name="strBtnUpdate">Update</string>
+
+    <string name="desBtnDel">For removing entry</string>
+    <string name="desBtnNewMail">Create new mail</string>
+    <string name="desBtnSearch">Search for an entry</string>
+    <string name="desBtnToolbarMenu">Opens a global menu</string>
+    <string name="desImageAvatar">User avatar</string>
+    <string name="desBtnExpand">Expand the current view</string>
+    <string name="desSample">Lorem ipsum dolor sit amet, consectetur adipiscing elit…</string>
+
+    <string name="strForYou">For you</string>
+    <string name="strTopCharts">Top charts</string>
+    <string name="strKids">Kids</string>
+    <string name="strPremium">Premium</string>
+    <string name="strCategories">Categories</string>
+</resources>
